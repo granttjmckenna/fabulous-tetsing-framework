@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Linq;
 using System.Reflection;
 using NUnit.Framework;
 
@@ -9,22 +7,30 @@ namespace fabulous_testing_framework.unit_tests
     [TestFixture]
     public class TestFinderTests
     {
+        private Assembly _assembly;
+
+        [OneTimeSetUp]
+        public void OneTimeSetUp()
+        {
+            _assembly = Assembly.LoadFile(@"C:\temp\fabulous-testing-framework\fabulous-testing-framework.unit-tests\bin\Debug\project-being-tested.dll");
+        }
+
         [Test]
         public void Return_classes_from_project_with_test_class_attribute()
         {
-            var assembly = Assembly.LoadFile(@"C:\temp\fabulous-testing-framework\fabulous-testing-framework.unit-tests\bin\Debug\project-being-tested.dll");
-
-            var classes = GetClassesWithFabulousTestClassAttribute(assembly);
+            var classes = new TestFinder().GetClassesWithFabulousTestClassAttribute(_assembly);
 
             Assert.That(classes.Any());
         }
 
-        private IEnumerable<Type> GetClassesWithFabulousTestClassAttribute(Assembly assembly)
+        [Test]
+        public void Return_methods_in_class_with_test_method_attribute()
         {
-            return assembly
-                .GetTypes()
-                .Where(type => type.GetCustomAttributes(typeof(FabulousTestClass), true)
-                .Any());
+            var classes = new TestFinder().GetClassesWithFabulousTestClassAttribute(_assembly);
+
+            var methods = new TestFinder().GetMethodsWithFabulousTestMethodAttribute(classes.First());
+
+            Assert.That(methods.Any());
         }
     }
 }
