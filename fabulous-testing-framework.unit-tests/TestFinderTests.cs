@@ -21,13 +21,10 @@ namespace fabulous_testing_framework.unit_tests
 
         private IEnumerable<Type> GetClassesWithFabulousTestClassAttribute(Assembly assembly)
         {
-            foreach (var type in assembly.GetTypes())
-            {
-                if (type.GetCustomAttributes(typeof(FabulousTestClass), true).Length > 0)
-                {
-                    yield return type;
-                }
-            }
+            return assembly
+                .GetTypes()
+                .Where(type => type.GetCustomAttributes(typeof(FabulousTestClass), true)
+                .Any());
         }
     }
 }
