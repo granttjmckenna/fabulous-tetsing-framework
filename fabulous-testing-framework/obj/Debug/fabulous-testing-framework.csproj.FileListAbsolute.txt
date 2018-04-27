@@ -1,0 +1,8 @@
+c:\temp\fabulous-testing-framework\fabulous-testing-framework\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\temp\fabulous-testing-framework\fabulous-testing-framework\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\temp\fabulous-testing-framework\fabulous-testing-framework\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\temp\fabulous-testing-framework\fabulous-testing-framework\bin\Debug\fabulous-testing-framework.dll
+c:\temp\fabulous-testing-framework\fabulous-testing-framework\bin\Debug\fabulous-testing-framework.pdb
+c:\temp\fabulous-testing-framework\fabulous-testing-framework\obj\Debug\fabulous-testing-framework.csproj.CoreCompileInputs.cache
+c:\temp\fabulous-testing-framework\fabulous-testing-framework\obj\Debug\fabulous-testing-framework.dll
+c:\temp\fabulous-testing-framework\fabulous-testing-framework\obj\Debug\fabulous-testing-framework.pdb

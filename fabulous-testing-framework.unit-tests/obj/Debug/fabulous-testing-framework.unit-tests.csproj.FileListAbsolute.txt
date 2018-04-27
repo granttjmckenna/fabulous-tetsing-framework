@@ -1,0 +1,16 @@
+c:\temp\fabulous-testing-framework\fabulous-testing-framework.unit-tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\temp\fabulous-testing-framework\fabulous-testing-framework.unit-tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\temp\fabulous-testing-framework\fabulous-testing-framework.unit-tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\temp\fabulous-testing-framework\fabulous-testing-framework.unit-tests\bin\Debug\fabulous-testing-framework.unit-tests.dll
+c:\temp\fabulous-testing-framework\fabulous-testing-framework.unit-tests\bin\Debug\fabulous-testing-framework.unit-tests.pdb
+c:\temp\fabulous-testing-framework\fabulous-testing-framework.unit-tests\bin\Debug\fabulous-testing-framework.dll
+c:\temp\fabulous-testing-framework\fabulous-testing-framework.unit-tests\bin\Debug\nunit.framework.dll
+c:\temp\fabulous-testing-framework\fabulous-testing-framework.unit-tests\bin\Debug\project-being-tested.dll
+c:\temp\fabulous-testing-framework\fabulous-testing-framework.unit-tests\bin\Debug\fabulous-testing-framework.pdb
+c:\temp\fabulous-testing-framework\fabulous-testing-framework.unit-tests\bin\Debug\project-being-tested.pdb
+c:\temp\fabulous-testing-framework\fabulous-testing-framework.unit-tests\bin\Debug\nunit.framework.pdb
+c:\temp\fabulous-testing-framework\fabulous-testing-framework.unit-tests\bin\Debug\nunit.framework.xml
+c:\temp\fabulous-testing-framework\fabulous-testing-framework.unit-tests\obj\Debug\fabulous-testing-framework.unit-tests.csprojResolveAssemblyReference.cache
+c:\temp\fabulous-testing-framework\fabulous-testing-framework.unit-tests\obj\Debug\fabulous-testing-framework.unit-tests.csproj.CoreCompileInputs.cache
+c:\temp\fabulous-testing-framework\fabulous-testing-framework.unit-tests\obj\Debug\fabulous-testing-framework.unit-tests.dll
+c:\temp\fabulous-testing-framework\fabulous-testing-framework.unit-tests\obj\Debug\fabulous-testing-framework.unit-tests.pdb

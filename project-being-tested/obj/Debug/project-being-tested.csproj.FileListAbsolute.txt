@@ -1,0 +1,11 @@
+c:\temp\fabulous-testing-framework\project-being-tested\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\temp\fabulous-testing-framework\project-being-tested\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\temp\fabulous-testing-framework\project-being-tested\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\temp\fabulous-testing-framework\project-being-tested\bin\Debug\project-being-tested.dll
+c:\temp\fabulous-testing-framework\project-being-tested\bin\Debug\project-being-tested.pdb
+c:\temp\fabulous-testing-framework\project-being-tested\bin\Debug\fabulous-testing-framework.dll
+c:\temp\fabulous-testing-framework\project-being-tested\bin\Debug\fabulous-testing-framework.pdb
+c:\temp\fabulous-testing-framework\project-being-tested\obj\Debug\project-being-tested.csprojResolveAssemblyReference.cache
+c:\temp\fabulous-testing-framework\project-being-tested\obj\Debug\project-being-tested.csproj.CoreCompileInputs.cache
+c:\temp\fabulous-testing-framework\project-being-tested\obj\Debug\project-being-tested.dll
+c:\temp\fabulous-testing-framework\project-being-tested\obj\Debug\project-being-tested.pdb
